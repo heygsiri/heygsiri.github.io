@@ -1,7 +1,7 @@
-baseURL = "http://heysiri.me"
+baseURL = "http://www.heysiri.me"
 publishDir = "docs"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Gabriel Sirilan"
 theme = "terminal"
 
 [params]
@@ -41,8 +41,8 @@ theme = "terminal"
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = ""
-  site = ""
+  #creator = ""
+  #site = ""
 
 [languages]
   [languages.en]
@@ -62,12 +62,12 @@ theme = "terminal"
       logoText = "Gabriel Sirilan"
       logoHomeLink = "/"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+  #  [languages.en.menu]
+  #    [[languages.en.menu.main]]
+  #      identifier = "about"
+  #      name = "About"
+  #      url = "/about"
+  #    [[languages.en.menu.main]]
+  #      identifier = "showcase"
+  #      name = "Showcase"
+  #      url = "/showcase"
