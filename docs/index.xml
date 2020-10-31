@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabriel Sirilan</title>
-    <link>http://heysiri.me/</link>
+    <link>http://www.heysiri.me/</link>
     <description>Recent content on Gabriel Sirilan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2020 10:38:17 +0800</lastBuildDate><atom:link href="http://heysiri.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Oct 2020 10:38:17 +0800</lastBuildDate><atom:link href="http://www.heysiri.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://heysiri.me/posts/hello-world/</link>
+      <link>http://www.heysiri.me/posts/hello-world/</link>
       <pubDate>Thu, 29 Oct 2020 10:38:17 +0800</pubDate>
       
-      <guid>http://heysiri.me/posts/hello-world/</guid>
-      <description></description>
+      <guid>http://www.heysiri.me/posts/hello-world/</guid>
+      <description>Hello, everyone! I am Gabriel Sirilan. I have an interest in programming. I&#39;m currently finishing up high school and planning to take a programming-related course in college. See ya!  </description>
     </item>
     
   </channel>
